@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my Backend Development<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Fullstack Web development<br>💬 Ask me about Web development
+🔭 I’m currently working on my Backend Development<br>🤝<br>🌱 I’m currently learning Fullstack Web development<br>💬
 
 https://swamimalodeportfolio.vercel.app/
 
