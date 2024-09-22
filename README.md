@@ -1,5 +1,5 @@
 
-![Uploading github.gif…]()
+![Swamimalode Github](github.gif)
 
 # 💫 About Me:
 🔭 I’m currently learning Backend Development<br>🌱 I’m currently learning Fullstack Web development<br>
