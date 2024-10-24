@@ -23,13 +23,12 @@ https://swamimalodeportfolio.vercel.app/
 
 ## GSSOC(24) Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <img src="postman(1).png" width="100px" height="100px" />
-  <img src="11.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/22.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/33.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/44.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/55.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/yourusername/your-repository/main/66.png" width="100px" height="100px" />
+  <img src="postman (1).png" width="150px" height="150px" />
+  <img src="11.png" width="150px" height="150px" />
+  <img src="22.png" width="150px" height="150px" />
+  <img src="33.png" width="150px" height="150px" />
+  <img src="44.png" width="150px" height="150px" />
+  <img src="55.png" width="150px" height="150px" />
 </div>
 
 
