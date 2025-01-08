@@ -44,4 +44,8 @@ https://swamimalode.vercel.app/
 ---
 [![](https://visitcount.itsvg.in/api?id=swamimalode07&icon=5&color=2)](https://visitcount.itsvg.in)
 
+
+
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
