@@ -46,6 +46,6 @@ https://swamimalode.vercel.app/
 
 
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=swamimalode07&color=green)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
