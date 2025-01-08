@@ -1,8 +1,10 @@
 
 ![Swamimalode Github](github.gif)
 
+![](https://komarev.com/ghpvc/?username=swamimalode07&color=green)
+
 # 💫 About Me:
-🔭 I’m currently learning Backend Development<br>🌱 I’m currently learning Fullstack Web development<br>
+🔭 Hey there, I'm Swami
 
 https://swamimalode.vercel.app/
  
@@ -46,6 +48,6 @@ https://swamimalode.vercel.app/
 
 
 
-![](https://komarev.com/ghpvc/?username=swamimalode07&color=green)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
