@@ -1,12 +1,12 @@
 
 ![Swamimalode Github](github.gif)
 
-![](https://komarev.com/ghpvc/?username=swamimalode07&color=green)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
 
 # 💫 About Me:
-🔭 Hey there, I'm Swami
+🔭 I’m currently learning Backend Development<br>🌱 I’m currently learning Fullstack Web development<br>
 
-https://swamimalode.online
+https://swamimalode.vercel.app/
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srm_2004_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/swamimalode) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SwamiMalode) 
@@ -36,16 +36,14 @@ https://swamimalode.online
 
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/swamimalode07?cardType=github&preferLogin=true)](https://git.io/awesome-stats-card)
+![](https://github-readme-stats.vercel.app/api?username=swamimalode07&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=swamimalode07&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=swamimalode07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=swamimalode07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=swamimalode07&icon=5&color=2)](https://visitcount.itsvg.in)
-
-
-
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
