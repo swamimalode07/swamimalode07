@@ -1,7 +1,8 @@
 
 ![Swamimalode Github](github.gif)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![Visitor Count](https://profile-counter.glitch.me/swamimalode07/count.svg)
+
 
 # 💫 About Me:
 🔭 I’m currently learning Backend Development<br>🌱 I’m currently learning Fullstack Web development<br>
