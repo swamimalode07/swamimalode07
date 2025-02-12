@@ -1,7 +1,7 @@
 
 ![Swamimalode Github](github.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/swamimalode07/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
 
 
 # 💫 About Me:
