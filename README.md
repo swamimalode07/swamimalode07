@@ -1,7 +1,7 @@
 
 ![Swamimalode Github](github.gif)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?swamimalode07=your-github-username&style=flat-square)
 
 
 # 💫 About Me:
