@@ -1,6 +1,7 @@
 
-![Swamimalode Github](github.gif)
-
+<p align="center">
+<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmU2dmJ6MWl3ZWprNWQ1ZmsweGpnb3Z0ZDRmcGVyem52ZmtrYzQ1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif"></img>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swamimalode07&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
