@@ -2,8 +2,9 @@
 ![Swamimalode Github](github.gif)
 
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swamimalode07&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=swamimalode07&style=flat-square&color=brightgreen" alt="Profile Views" />
 </p>
+
 
 
 
