@@ -1,7 +1,10 @@
 
 ![Swamimalode Github](github.gif)
 
-![](https://komarev.com/ghpvc/?swamimalode07=your-github-username&style=flat-square)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/swamimalode07&count_bg=%2379C83D&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
+
 
 
 # 💫 About Me:
