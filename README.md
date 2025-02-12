@@ -1,7 +1,7 @@
 
 ![Swamimalode Github](github.gif)
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 
 # 💫 About Me:
