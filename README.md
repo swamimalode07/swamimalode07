@@ -7,10 +7,15 @@
 
 I build exceptional digital experiences with modern technologies. Specialized in Full Stack Development and UI & UX Design.
 
+
 🌍 I'm based in India  
 🖥️ See my portfolio at [Portfolio Site](http://swamimalode.online)  
 ✉️ You can contact me at [swamimalodeofficial@gmail.com](mailto:swamimalodeofficial@gmail.com)  
 🤝 I'm open to collaborating on Open Source Projects and Freelance  
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=swamimalode07&label=Profile%20views&color=0e75b6&style=flat" alt="swamimalode07" /> 
+</p>
+
 
 ## Skills  
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -87,6 +92,8 @@ I build exceptional digital experiences with modern technologies. Specialized in
 <a href="http://www.github.com/swamimalode07">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swamimalode07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+
+
 
 
 
