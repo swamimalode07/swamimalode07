@@ -1,6 +1,6 @@
 # ![GitHub Animation](https://github.com/swamimalode07/swamimalode07/blob/main/github.gif?raw=true)
 
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Swami
+# Hi My name is Swami
 
 
 ## Web Dev + Web Design
