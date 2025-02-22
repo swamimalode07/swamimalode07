@@ -1,7 +1,7 @@
 # ![GitHub Animation](https://github.com/swamimalode07/swamimalode07/blob/main/github.gif?raw=true)
 
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Swami
-=============================================================================================================================
+
 
 ## Web Dev + Web Design
 
@@ -88,7 +88,7 @@ I build exceptional digital experiences with modern technologies. Specialized in
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=swamimalode07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 
-## 🐍 GitHub Contribution Snake Game
 
-![GitHub Snake Animation](https://raw.githubusercontent.com/swamimalode07/swamimalode07/output/github-snake.svg)
+
+
 
