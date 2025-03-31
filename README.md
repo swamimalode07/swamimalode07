@@ -1,4 +1,6 @@
-# ![GitHub Animation](https://github.com/swamimalode07/swamimalode07/blob/main/new.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/swamimalode07/swamimalode07/blob/main/new.gif?raw=true" alt="GitHub Animation">
+</p>
 
 # Hi My name is Swami
 
