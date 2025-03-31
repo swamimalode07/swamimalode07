@@ -1,4 +1,4 @@
-# ![GitHub Animation](https://github.com/swamimalode07/swamimalode07/blob/main/github.gif?raw=true)
+# ![GitHub Animation](https://github.com/swamimalode07/swamimalode07/blob/main/new.gif?raw=true)
 
 # Hi My name is Swami
 
