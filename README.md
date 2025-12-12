@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="readmegiphi.gif" alt="GitHub Animation">
-</p>
+</p> -->
 
 # Hi Swami this side
 
