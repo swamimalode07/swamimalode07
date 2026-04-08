@@ -10,8 +10,8 @@ I love both Design & Development. I create websites that are not just beautiful,
 I’m always looking for new opportunities to learn and grow.
 
 🔸 **Connect with me:**
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your@email.com)
+- [ X ](https://x.com/swamimalode)
+- [Email](mailto:swamimalodeofficial@gmail.com)
 
 Feel free to DM me or send me an email.
 
