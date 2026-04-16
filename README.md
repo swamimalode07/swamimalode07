@@ -15,6 +15,8 @@ I’m always looking for new opportunities to learn and grow.
 
 Feel free to DM me or send me an email.
 
+🔸 **Visitor count:**
+https://count.getloli.com/@swamimalode07?name=swamimalode07&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=0&darkmode=1
 
 <p align="left> 
   <img src="https://komarev.com/ghpvc/?username=swamimalode07&label=Profile%20views&color=8B5CF6&style=flat" alt="swamimalode07" /> 
