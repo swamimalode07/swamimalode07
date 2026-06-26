@@ -9,6 +9,9 @@ I love both Design & Development. I create websites that are not just beautiful,
 🔸 Currently building <a href="https://vidstudio.live"><b>VidStudio</b></a> — a video recording tool that helps anyone create high-quality, beautiful product videos with ease, completely free.
 I’m always looking for new opportunities to learn and grow.
 
+[![Website](https://www.shieldcn.dev/badge/Website-swamii.me-181717.svg?logo=ri%3ALuLink&variant=branded&size=xs)](https://swamii.me)
+[![X Follow](https://www.shieldcn.dev/x/follow/swamimalode.svg?variant=branded&size=xs)](https://x.com/swamimalode)
+
 🔸 **Connect with me:**
 - [ X ](https://x.com/swamimalode)
 - [Email](mailto:swamimalodeofficial@gmail.com)
